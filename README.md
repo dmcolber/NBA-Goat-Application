@@ -26,7 +26,7 @@ Version 2: Python Development
 Version 3: Full-Stack Website
 ------------------------------------------------------------------
 - Research Opportunities to use APIs for data
-- Build Django Front-End to work with Python Back-End
+- Build interface using combination of Python, Flask, and Django
     - Player Graphics
     - Tips and Help
     - Sharable Features
